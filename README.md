@@ -24,9 +24,9 @@ Visit <http://localhost:8888/page1.html> or <http://localhost:8888/page2.html> t
 To view data, open the Adminer client at <http://localhost:8080/> with the credentials:
 
 * Server: **host.docker.internal** (or your network IP address)
-* Username: **root**
-* Password: **rootuserpw**
-* Database: **pagehitmongo**
+* Username: *
+* Password: *
+* Database: *
 
 
 ## Shutdown
